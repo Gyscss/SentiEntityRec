@@ -7,9 +7,9 @@ Code for our paper [SentiEntityRec: Entity-level Sentiment Perception Graph Neur
   SentiEntityRec Model Illustration
 </p>
 
-### Data preprocess
-# It is necessary to pre-extract the sentiment polarity of the entities in the news in the news dataset to facilitate the subsequent model training
-# The codes for entity extraction and emotional model extraction are in the "EntitySentimentVectorExtraction.py" file under folder "EntityExtraction-SentimentAnalysis"
+### Data preprocessing
+It is necessary to pre-extract the sentiment polarity of the entities in the news dataset to facilitate the subsequent model training
+The codes for entity extraction and emotional model extraction are in the "EntitySentimentVectorExtraction.py" file under the folder "EntityExtraction-SentimentAnalysis."
 
 ### Environment
 > Python 3.8.10
